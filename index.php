@@ -29,7 +29,6 @@
                   $content = $row['content'];
                 ?>
 
-                <!-- First Blog Post -->
                 <h2>
                     <a href="#"><?php echo $title; ?></a>
                 </h2>
